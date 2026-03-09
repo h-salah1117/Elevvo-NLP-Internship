@@ -1,4 +1,4 @@
-Amazon Sentiment Analysis/data/
+*.venv
 *.csv
 *.json
-
+nlp_env
