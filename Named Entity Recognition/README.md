@@ -23,7 +23,7 @@ This project focuses on **Named Entity Recognition (NER)** using news articles. 
 ## 🚀 How to Run
 1. Install requirements: `pip install spacy pandas`
 2. Download models: `python -m spacy download en_core_web_sm`
-3. Open `NER_Task.ipynb` and run the cells.
+3. Open `NER.ipynb` and run the cells.
 
 ---
 **Course:** Natural Language Processing Track | **Provider:** [Elevvo.tech](https://elevvo.tech)  
